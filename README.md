@@ -4,3 +4,4 @@ Git clone https://heroku.com/deploy?template=https://github.com/jithu3/whatsapp-
 
 Avoid lyfe00011 
 Set the bot
+all set onnu set avvu myrr
